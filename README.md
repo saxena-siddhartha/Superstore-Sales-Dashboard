@@ -111,4 +111,5 @@ BI Portfolio Showcases
 
 📸 Screenshots
 https://github.com/saxena-siddhartha/Superstore-Sales-Dashboard/blob/main/sales%20dasboard%20powerbi.png
+https://github.com/saxena-siddhartha/Superstore-Sales-Dashboard/blob/main/superstore%2015%20days%20data%20analysis%20dasboard.pbit
 
