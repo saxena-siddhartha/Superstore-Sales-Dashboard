@@ -110,3 +110,5 @@ Data Enthusiasts
 BI Portfolio Showcases
 
 📸 Screenshots
+https://github.com/saxena-siddhartha/Superstore-Sales-Dashboard/blob/main/sales%20dasboard%20powerbi.png
+
